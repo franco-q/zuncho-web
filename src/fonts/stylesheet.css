@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Black Italic'), local('Kufam-BlackItalic'),
+        url('Kufam-BlackItalic.woff2') format('woff2'),
+        url('Kufam-BlackItalic.woff') format('woff'),
+        url('Kufam-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Black'), local('Kufam-Black'),
+        url('Kufam-Black.woff2') format('woff2'),
+        url('Kufam-Black.woff') format('woff'),
+        url('Kufam-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Bold'), local('Kufam-Bold'),
+        url('Kufam-Bold.woff2') format('woff2'),
+        url('Kufam-Bold.woff') format('woff'),
+        url('Kufam-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Bold Italic'), local('Kufam-BoldItalic'),
+        url('Kufam-BoldItalic.woff2') format('woff2'),
+        url('Kufam-BoldItalic.woff') format('woff'),
+        url('Kufam-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam ExtraBold Italic'), local('Kufam-ExtraBoldItalic'),
+        url('Kufam-ExtraBoldItalic.woff2') format('woff2'),
+        url('Kufam-ExtraBoldItalic.woff') format('woff'),
+        url('Kufam-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam ExtraBold'), local('Kufam-ExtraBold'),
+        url('Kufam-ExtraBold.woff2') format('woff2'),
+        url('Kufam-ExtraBold.woff') format('woff'),
+        url('Kufam-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Medium'), local('Kufam-Medium'),
+        url('Kufam-Medium.woff2') format('woff2'),
+        url('Kufam-Medium.woff') format('woff'),
+        url('Kufam-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Medium Italic'), local('Kufam-MediumItalic'),
+        url('Kufam-MediumItalic.woff2') format('woff2'),
+        url('Kufam-MediumItalic.woff') format('woff'),
+        url('Kufam-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam SemiBold'), local('Kufam-SemiBold'),
+        url('Kufam-SemiBold.woff2') format('woff2'),
+        url('Kufam-SemiBold.woff') format('woff'),
+        url('Kufam-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam SemiBold Italic'), local('Kufam-SemiBoldItalic'),
+        url('Kufam-SemiBoldItalic.woff2') format('woff2'),
+        url('Kufam-SemiBoldItalic.woff') format('woff'),
+        url('Kufam-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Italic'), local('Kufam-Italic'),
+        url('Kufam-Italic.woff2') format('woff2'),
+        url('Kufam-Italic.woff') format('woff'),
+        url('Kufam-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: local('Kufam Regular'), local('Kufam-Regular'),
+        url('Kufam-Regular.woff2') format('woff2'),
+        url('Kufam-Regular.woff') format('woff'),
+        url('Kufam-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
